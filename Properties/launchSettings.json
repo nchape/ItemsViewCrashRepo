@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ItemsViewCrashRepo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ItemsViewCrashRepo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
